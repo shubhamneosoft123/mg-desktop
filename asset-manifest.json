@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mg-desktop/static/css/main.fe89c121.css",
+    "main.js": "/mg-desktop/static/js/main.ae51d07a.js",
+    "index.html": "/mg-desktop/index.html",
+    "main.fe89c121.css.map": "/mg-desktop/static/css/main.fe89c121.css.map",
+    "main.ae51d07a.js.map": "/mg-desktop/static/js/main.ae51d07a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe89c121.css",
+    "static/js/main.ae51d07a.js"
+  ]
+}
